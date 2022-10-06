@@ -5,26 +5,24 @@ const Pricing = () => {
     const PricingOption = [
         {
             id: 1, name: 'free', price: 0,
-            features:
-                [
-                    'Awsome Feature',
-                    'Extra Feature',
-                    'Unnecessary Feature',
-                    'we never use fetture',
-                    'joos features'
-                ]
+            features: [
+                'Awsome Feature',
+                'Extra Feature',
+                'Unnecessary Feature',
+                'we never use fetture',
+                'joos features'
+            ]
         },
         {
             id: 2, name: 'pre', price: 9.99,
-            Features:
-                [
-                    'Awsome Feature',
-                    'Extra Feature',
-                    'Unnecessary Feature',
-                    'we never use fetture',
-                    'joos features'
+            Features: [
+                'Awsome Feature',
+                'Extra Feature',
+                'Unnecessary Feature',
+                'we never use fetture',
+                'joos features'
 
-                ]
+            ]
         },
         {
             id: 3, name: 'medum', price: 6.1,
